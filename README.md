@@ -15,7 +15,7 @@ This script generates random ports for Minecraft servers, saves them to a text f
 
 3. Run the following command to execute the script:
 
-[ python add_firewall_rules.py ]
+[ python add_ufw-ports-generator.py ]
 
 4. The script will generate random ports for Minecraft servers, save them to a text file named `minecraft_ports.txt`, and add firewall rules using `ufw`.
 
